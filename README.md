@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Kshitij-Karkera">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+%7C+Data+Engineering;Cloud+Computing+%7C+AI%2FML;Full-stack+apps+with+React%2C+Node+%26+Python;Deep+learning+models+served+through+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+Data+Engineering;Cloud+Computing+%7C+AI%2FML;Full-stack+apps+with+React%2C+Node+%26+Python;Turning+ML+models+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
