@@ -24,16 +24,18 @@
 
 ## 👨‍💻 About Me
 
-```python
-class KshitijKarkera:
-    education  = "MS in Computer Science @ The University of Texas at Arlington"
-    location   = "United States 🇺🇸"
-    focus      = ["Software Engineering", "Data Engineering", "Cloud Computing", "AI/ML"]
-    builds     = ["Full-stack web apps", "ML-powered products", "Data visualization tools"]
-    open_to    = ["Software Engineering roles", "Data Engineering roles", "Internships / Co-ops"]
+```javascript
+class KshitijKarkera {
+  education = "MS in Computer Science @ The University of Texas at Arlington";
+  location  = "United States 🇺🇸";
+  focus     = ["Software Engineering", "Data Engineering", "Cloud Computing", "AI/ML"];
+  builds    = ["Full-stack web apps", "ML-powered products", "Data visualization tools"];
+  openTo    = ["Software Engineering roles", "Data Engineering roles", "Internships / Co-ops"];
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something together.")
+  sayHi() {
+    console.log("Thanks for stopping by! Let's build something together.");
+  }
+}
 ```
 
 - 🎓 Pursuing my **MS in Computer Science at UT Arlington**
