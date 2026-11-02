@@ -43,7 +43,6 @@ class KshitijKarkera {
 - 🌐 I build full-stack apps with **React, Node.js/Express, Django and SQL/NoSQL databases**
 - ☁️ I work with **AWS, Docker and Kubernetes** for deployment
 - 📊 I build interactive data visualizations with **D3.js and Chart.js**
-- 🤝 I answer questions on **[Stack Overflow](https://stackoverflow.com/users/16016046/kshitij-karkera)**
 
 ---
 
